@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">강의 14장 서비스와 브로드캐스트 리시버</string>
+
+    <string name="main_btn_exam01">6~17 [서비스] 음악</string>
+    <string name="main_btn_exam02">18~22 [서비스] 음악(개선)</string>
+    <string name="main_btn_exam03">25~35 [브로드캐스트 리시버] 배터리 상태 확인</string>
+    <string name="main_btn_exam04">36~38 [브로드캐스트 리시버] 배터리 상태 확인 (개선)</string>
+    <string name="main_btn_exam05">43~46 [콘텐트 프로바이더] 통화 기록을 가져오기</string>
+
+    <string name="main_btn_prac1">연습문제 1</string>
+
+
+    <string name="exam01_btn_start">음악 서비스 시작</string>
+    <string name="exam01_btn_stop">음악 서비스 중지</string>
+
+    <string name="exam02_btn_start">음악 서비스 시작</string>
+    <string name="exam02_btn_stop">음악 서비스 중지</string>
+</resources>
